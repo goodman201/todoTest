@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "vladyslav app",
+  "mongoUri": "mongodb+srv://vladyslav:1234qwe@cluster0.flmpn.mongodb.net/test?retryWrites=true&w=majority"
+}
